@@ -6,3 +6,5 @@
 6) cd myproject/
 7) python manage.py migrate
 8) python manage.py runserver
+
+shortener url : /short/
